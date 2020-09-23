@@ -7,7 +7,7 @@ Download Sentinel images for given set of ROIs, given time frame and produce a d
 4. capable of creating a desired bandstack eg: B2,B3,B4, b8, B2,B3,B4, b8a .....etc
 5. capable of generating true color png, which is usefull in quality control
 
-#inputs
+# inputs
 1. roi as geojson (shp will accept with minimal changes)
 2. tile footprint (this can be get rid as users wish)
 3.start time and end time
