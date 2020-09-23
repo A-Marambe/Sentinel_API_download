@@ -1,5 +1,6 @@
 # Sentinel_API_download
-Download Sentinel images for given set of ROIs, given time frame and produce a desired band stack tiff and png for quality control
+Download Sentinel images for given set of ROIs, given time frame and produce a desired band stack tiff and png for quality control. Will be usefull in time series analysis using sentinel images.
+
 # Functionality
 1. download s2 images directly from API 
 2. capable of download only for given rois
@@ -12,4 +13,4 @@ Download Sentinel images for given set of ROIs, given time frame and produce a d
 2. tile footprint (this can be get rid as users wish)
 3.start time and end time
 
-** for smoother operations will need better computer resources. as minimum tested on 4GB RAM/COREi3 1.7 diskspace requrements vary according to the 
+** for smoother operations will need better computer resources. as minimum tested on 4GB RAM/COREi3 1.7 diskspace requrements vary according to the roi and time
